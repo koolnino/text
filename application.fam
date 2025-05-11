@@ -4,4 +4,4 @@ type: app
 entry: hello_world.c
 version: 1.0.0
 author: koolnino
-description: Minimal Hello World for Momentum 0.1.0
+description: Text demo adapted for Momentum 0.1.0
